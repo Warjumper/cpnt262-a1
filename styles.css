@@ -1,0 +1,68 @@
+/* Button (Hello there) */
+.button {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 24px;
+  font-style: italic;
+  border: none;
+  border-radius: 10px;
+  background-color: powderblue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.04s;
+}
+
+.button:hover {
+ background-color: blue;
+ color: white;
+ cursor: pointer;
+}
+
+.button:active {
+  background-color: powderblue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+  color: black;
+}
+
+/* Button (General Kenobi) */
+.button2 {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 24px;
+  font-style: italic;
+  border: none;
+  border-radius: 10px;
+  background-color: #333;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.04s;
+}
+
+.button2:hover {
+ background-color: rebeccapurple;
+ color: white;
+ cursor: pointer;
+}
+
+.button2:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+/* Text */
+.p {
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  font-size: 24px;
+}
