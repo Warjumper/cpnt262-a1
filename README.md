@@ -2,7 +2,7 @@
 ### CPN262 - Assignment 1 - Push of a button
 
 #### By Jesse H
-#### GitHub pages link - 
+#### GitHub pages link - https://warjumper.github.io/cpnt262-a1/
 
 ### Code attributions;
 - Sound - https://www.soundboard.com/sb/sound/931005
